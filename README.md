@@ -1,4 +1,4 @@
-###Hi, I'm Bharath 👋
+### Hi, I'm Bharath 👋
 
 I am a PhD student working on the conformal bootstrap at the University of Geneva.
 
