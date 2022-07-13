@@ -1,4 +1,8 @@
-### Hi there 👋
+###Hi, I'm Bharath 👋
+
+I am a PhD student working on the conformal bootstrap at the University of Geneva.
+
+I have a broad interest in high-energy physics and related areas. Currently, my focus mostly revolves around the numerical bootstrap program for systems with boundaries. I have occasionally dabbled in the stringy aspects of AdS/CFT, and even extensions to flat space holography.
 
 <!--
 **bharathr98/bharathr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
