@@ -1,6 +1,6 @@
 ### Hi, I'm Bharath 👋
 
-I am a PhD student working on the conformal bootstrap at the University of Geneva.
+I am a PhD student at the University of Geneva. I currently work on applying numerical methods to the conformal bootstrap. 
 
 I have a broad interest in high-energy physics and related areas. Currently, my focus mostly revolves around the numerical bootstrap program for systems with boundaries. I have occasionally dabbled in the stringy aspects of AdS/CFT, and even extensions to flat space holography.
 
