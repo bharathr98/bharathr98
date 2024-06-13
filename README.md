@@ -1,8 +1,8 @@
 ### Hi, I'm Bharath 👋
 
-I am a PhD student at the University of Geneva. I currently work on applying numerical methods to the conformal bootstrap. 
+I am a 3rd year PhD student in theoretical physics at the University of Geneva and a COAS at CERN Geneva. 
 
-I have a broad interest in high-energy physics and related areas. Currently, my focus mostly revolves around the numerical bootstrap program for systems with boundaries. I have occasionally dabbled in the stringy aspects of AdS/CFT, and even extensions to flat space holography.
+At the moment, allowed boundary conditions in two dimensional conformal field theories keeps me awake during the day, and ML alignment keeps me awake during the night. In the past I have dabbled in the [stringy aspects of AdS/CFT](https://arxiv.org/abs/2112.05115) and [flat space holography](https://arxiv.org/abs/2106.07649). To see more about my work, I invite you to visit my [Google Scholar](https://scholar.google.com/citations?user=8BDAnVAAAAAJ&hl=en) profile.
 
 <!--
 **bharathr98/bharathr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
