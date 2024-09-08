@@ -5,7 +5,7 @@ I am a 4th year PhD student in theoretical physics at the University of Geneva a
 At the moment, allowed boundary conditions in two dimensional conformal field theories keeps me awake during the day, and ML alignment keeps me awake during the night. In the past I have dabbled in the [stringy aspects of AdS/CFT](https://arxiv.org/abs/2112.05115) and [flat space holography](https://arxiv.org/abs/2106.07649). To see more about my work, I invite you to visit my [Google Scholar](https://scholar.google.com/citations?user=8BDAnVAAAAAJ&hl=en) profile.
 
 I like to do a lot of mini projects as a way to understand how a lot of software I use on a daily basis works. You can find all of them in the [miniX](https://github.com/bharathr98/minix) repository. Some illustrative samples of these are 
- - [minigrep](https://github.com/bharathr98/minigrep) - An implementation of `grep`, which uses the Boyer-Moore algorithm string search algorithm. Written in C.
+ - [minigrep](https://github.com/bharathr98/minigrep) - An implementation of `grep`, which uses the Boyer-Moore string search algorithm. Written in C.
  - [minitorch](https://github.com/bharathr98/minitorch) - An implementation of strided tensors, famously used in PyTorch and Boost.MultiArray. Written in C++.
  - [miniLLM](https://github.com/bharathr98/minillm) - An annotated implementation of Transformers from [Attention Is All You Need](https://arxiv.org/abs/1706.03762) using PyTorch.
 
