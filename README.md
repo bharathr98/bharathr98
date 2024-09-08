@@ -9,6 +9,8 @@ I like to do a lot of mini projects as a way to understand how a lot of software
  - [minitorch](https://github.com/bharathr98/minitorch) - An implementation of strided tensors, famously used in PyTorch and Boost.MultiArray. Written in C++.
  - [miniLLM](https://github.com/bharathr98/minillm) - An annotated implementation of Transformers from [Attention Is All You Need](https://arxiv.org/abs/1706.03762) using PyTorch.
 
+Please be aware that these are projects to understand the concept behind something and thus are not meant to be replacements. Please be sensible enough to not use them in any production environment.
+
 <!--
 **bharathr98/bharathr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
