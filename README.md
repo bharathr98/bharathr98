@@ -7,7 +7,7 @@ At the moment, allowed boundary conditions in two dimensional conformal field th
 I like to do a lot of mini projects as a way to understand how a lot of the software I use on a daily basis works. You can find all of them in the [miniX](https://github.com/bharathr98/minix) repository. Some illustrative samples of these are 
  - [miniLLM](https://github.com/bharathr98/minillm) - An annotated implementation of Transformers from [Attention Is All You Need](https://arxiv.org/abs/1706.03762) using PyTorch.
  - [minigrep](https://github.com/bharathr98/minigrep) - An implementation of `grep`, which uses the Boyer-Moore string search algorithm. Written in C.
- - [minitorch](https://github.com/bharathr98/minitorch) - An implementation of strided tensors, famously used in PyTorch and Boost.MultiArray. Written in C++.
+ - [minitorch](https://github.com/bharathr98/minitorch) - An implementation of strided tensors, a key datastructure used for multidimensional data and famously used in PyTorch and Boost.MultiArray. Written in C++.
 
 Please be aware that these are projects to understand the concept behind something and thus are not meant to be replacements. Please be sensible enough to not use them in any production environment.
 
