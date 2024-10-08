@@ -1,6 +1,6 @@
 ### Hi, I'm Bharath 👋
 
-I am a 4th year PhD student in theoretical physics at the University of Geneva and a COAS at CERN Geneva. 
+I am a 4th year PhD student in theoretical physics at the University of Geneva and a COAS at CERN Geneva. I am currently at Caltech as a visiting PhD student.
 
 At the moment, allowed boundary conditions in two dimensional conformal field theories keeps me awake during the day, and ML alignment keeps me awake during the night. In the past I have dabbled in the [stringy aspects of AdS/CFT](https://arxiv.org/abs/2112.05115) and [flat space holography](https://arxiv.org/abs/2106.07649). To see more about my work, I invite you to visit my [Google Scholar](https://scholar.google.com/citations?user=8BDAnVAAAAAJ&hl=en) profile.
 
